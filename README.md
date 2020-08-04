@@ -10,8 +10,6 @@
 
 [<img align="left" alt="grilme99" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://devforum.roblox.com/u/grilme99/summary)
 [<img align="left" alt="grilme99 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/grilme99)
-<br>
-Discord: `grilme99#0001` *why doesn't discord let you link profiles :(*
 
 ### Languages and Tools:
 
