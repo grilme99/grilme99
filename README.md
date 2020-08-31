@@ -1,4 +1,4 @@
-### Hey there!! I'm Jacob - aka [grilme99](https://devforum.roblox.com/u/grilme99/summary) 👋
+### Hey there!! I'm [grilme99](https://devforum.roblox.com/u/grilme99/summary) 👋
 
 ## I'm a Full-Stack Developer!
 - I'm currently working on a game called Reflex
