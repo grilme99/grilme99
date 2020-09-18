@@ -1,4 +1,4 @@
-### Hey there!! I'm [brooke](https://gril.me) 👋
+### Hey there!! I'm [Brooke](https://gril.me)! 👋
 
 ## Connect with me:
 
